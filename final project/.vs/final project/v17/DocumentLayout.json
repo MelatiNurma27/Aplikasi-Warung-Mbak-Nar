@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melat\\source\\repos\\final project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|c:\\users\\melat\\source\\repos\\final project\\aplikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:aplikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\bayar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:bayar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\laporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:laporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\homekasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:homekasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\homeowner.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:homeowner.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\homeowner.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:homeowner.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\laporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:laporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\aplikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:aplikasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\homekasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:homekasir.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|C:\\Users\\melat\\source\\repos\\final project\\bayar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{58A29C47-AB3F-4357-9A60-386A1D209ACE}|final project.vbproj|solutionrelative:bayar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeOwner.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\HomeOwner.vb",
+              "RelativeDocumentMoniker": "HomeOwner.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\HomeOwner.vb [Design]",
+              "RelativeToolTip": "HomeOwner.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T05:21:23.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laporan.vb",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Laporan.vb",
+              "RelativeDocumentMoniker": "Laporan.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Laporan.vb",
+              "RelativeToolTip": "Laporan.vb",
+              "ViewState": "AgIAACIAAAAAAAAAAAA0wEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T07:25:25.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Login.vb",
+              "RelativeToolTip": "Login.vb",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T06:48:49.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeOwner.vb",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\HomeOwner.vb",
+              "RelativeDocumentMoniker": "HomeOwner.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\HomeOwner.vb",
+              "RelativeToolTip": "HomeOwner.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T07:03:48.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aplikasi.vb",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Aplikasi.vb",
+              "RelativeDocumentMoniker": "Aplikasi.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Aplikasi.vb",
+              "RelativeToolTip": "Aplikasi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T07:27:09.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeKasir.vb",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\HomeKasir.vb",
+              "RelativeDocumentMoniker": "HomeKasir.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\HomeKasir.vb",
+              "RelativeToolTip": "HomeKasir.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T07:07:10.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.vb",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Menu.vb",
+              "RelativeDocumentMoniker": "Menu.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Menu.vb",
+              "RelativeToolTip": "Menu.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T07:27:56.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bayar.vb",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Bayar.vb",
+              "RelativeDocumentMoniker": "Bayar.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Bayar.vb",
+              "RelativeToolTip": "Bayar.vb",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T07:28:11.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Login.vb [Design]",
+              "RelativeToolTip": "Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T05:14:52.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Aplikasi.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Aplikasi.vb",
+              "RelativeDocumentMoniker": "Aplikasi.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Aplikasi.vb [Design]",
+              "RelativeToolTip": "Aplikasi.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T05:26:58.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Laporan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Laporan.vb",
+              "RelativeDocumentMoniker": "Laporan.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Laporan.vb [Design]",
+              "RelativeToolTip": "Laporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T05:55:54.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Menu.vb",
+              "RelativeDocumentMoniker": "Menu.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Menu.vb [Design]",
+              "RelativeToolTip": "Menu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T05:51:55.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeKasir.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\HomeKasir.vb",
+              "RelativeDocumentMoniker": "HomeKasir.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\HomeKasir.vb [Design]",
+              "RelativeToolTip": "HomeKasir.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T05:33:30.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bayar.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\melat\\source\\repos\\final project\\Bayar.vb",
+              "RelativeDocumentMoniker": "Bayar.vb",
+              "ToolTip": "C:\\Users\\melat\\source\\repos\\final project\\Bayar.vb [Design]",
+              "RelativeToolTip": "Bayar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-16T05:43:19.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
